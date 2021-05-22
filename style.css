@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    )
+}
+.container {
+    text-align: center;
+    padding: 5px 5px;
+    border: 5px solid black;
+    color:navy;
+    background:bisque;
+}
+body {
+    background:thistle;
+}
+.navbar {
+    
+    border: 2px solid black;
+}
